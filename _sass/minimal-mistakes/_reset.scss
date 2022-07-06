@@ -21,6 +21,7 @@ html {
   @include breakpoint($x-large) {
     font-size: 16px;                  // Default 22px;
   }
+}
 
 /* Remove margin */
 
