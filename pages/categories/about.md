@@ -28,6 +28,6 @@ Current in [CSL Lab](https://sites.google.com/site/climatesystemlab)
 -	Analysis of the title of the article and the feelings of people about the Football Club
 -	Implementation of Wordcloud for Climate Crisis Keywords Using Web Scraping
 -	Typhoon Simulation Using WRF Model
-
+ 
 
 
