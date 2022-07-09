@@ -37,16 +37,16 @@ Current in [CSL Lab](https://sites.google.com/site/climatesystemlab) Intern
 - Ewha Lacrosse Club, Member (Mar 2020 – Dec 2021)
 
 ## Projects
-- Smart Monitoring System for the Prevention of Fire and Source of Fine Dust
--	Analysis of the title of the article and the feelings of people about the Football Club
--	Implementation of Wordcloud for Climate Crisis Keywords Using Web Scraping
- 
 > [Weather Analysis & Forecasting](https://dpdms1212.wixsite.com/waf1)<br>
  (Analysis & Forecasting about 2021.03.26. ~ 2021.04.01.)<br>
  
  
 > [Analysis about typhoon BAVI](https://gwonjh8543.wixsite.com/scientists)<br>
-  Typhoon Simulation Using WRF Model
+  Typhoon Simulation Using WRF Model<br>
+  
+- Smart Monitoring System for the Prevention of Fire and Source of Fine Dust
+-	Analysis of the title of the article and the feelings of people about the Football Club
+-	Implementation of Wordcloud for Climate Crisis Keywords Using Web Scraping
 - [Paradox of Globalwarming](https://cindusuhyun.wixsite.com/mysite)
  
 
