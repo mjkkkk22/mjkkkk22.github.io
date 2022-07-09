@@ -6,8 +6,6 @@ main:
     url: /about/
   - title: "Category"
     url: "/categories/"
-  - title: "Year"
-    url: /year/
     
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
