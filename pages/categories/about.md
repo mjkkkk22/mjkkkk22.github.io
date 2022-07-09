@@ -14,11 +14,13 @@ toc_label: "MYSELF"
 ---
 <center><img src="https://user-images.githubusercontent.com/108711033/178106242-86c7aa62-0b8a-481e-8558-a5adb338d792.png" width="300" height="300"></center>
 
+<center><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </center>
 
 ## Minjeong Kong
 - Major
 > Climate and Energy Systems Engineering,<br>
-  Specialized Program in SOFTWARE CONVERGENCE	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  Specialized Program in SOFTWARE CONVERGENCE
 
 in Ewha Womans University
 
