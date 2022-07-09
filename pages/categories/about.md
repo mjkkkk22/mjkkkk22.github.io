@@ -17,6 +17,7 @@ in Ewha Womans University
 
 ## Interest
 - LG Twins
+- Chelsea
  
 ## Work Experiences
 Current in [CSL Lab](https://sites.google.com/site/climatesystemlab) Intern
