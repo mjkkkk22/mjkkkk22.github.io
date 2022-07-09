@@ -6,7 +6,7 @@ author_profile: true
 sidebar_main: true
 ---
 
-"images/penguin.jpg"
+![seal](https://user-images.githubusercontent.com/108711033/178106242-86c7aa62-0b8a-481e-8558-a5adb338d792.png)
 
 ## Minjeong Kong
 - Major
