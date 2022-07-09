@@ -109,7 +109,7 @@ author:
   avatar           : "images/penguin.jpg"
   bio              : "I am an **amazing** person."
   location         : "South Korea"
-  email            : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
