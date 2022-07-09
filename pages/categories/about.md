@@ -17,7 +17,7 @@ in Ewha Womans University
 ## Work Experiences
 Current in [CSL Lab](https://sites.google.com/site/climatesystemlab)
 - CJ OLIVENETWORKS, Intern(Oct 2021 – Dec 2021)
-- RainbirdGEO (May 2021 – Sep 2021)
+- RainbirdGEO, Intern(May 2021 – Sep 2021)
 
 ## Projects
 - Smart Monitoring System for the Prevention of Fire and Source of Fine Dust
