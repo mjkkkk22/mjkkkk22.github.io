@@ -19,7 +19,7 @@ in Ewha Womans University
 - LG Twins
  
 ## Work Experiences
-Current in [CSL Lab](https://sites.google.com/site/climatesystemlab)
+Current in [CSL Lab](https://sites.google.com/site/climatesystemlab) Intern
 - CJ OLIVENETWORKS, Intern (Oct 2021 – Dec 2021)
 - RainbirdGEO, Intern (May 2021 – Sep 2021)
 
