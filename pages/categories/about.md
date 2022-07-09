@@ -6,12 +6,11 @@ author_profile: true
 sidebar_main: true
 ---
 
-
+![image](이미지주소)
 
 ## Minjeong Kong
-- MAJOR : Climate and Energy Systems Engineering
-
-Specialized Program in SOFTWARE CONVERGENCE	
+> MAJOR : Climate and Energy Systems Engineering<br>
+  Specialized Program in SOFTWARE CONVERGENCE	
 
 in Ewha Womans University
 
