@@ -42,8 +42,8 @@ Current in [CSL Lab](https://sites.google.com/site/climatesystemlab) Intern
 -	Implementation of Wordcloud for Climate Crisis Keywords Using Web Scraping
  
 - [Weather Analysis & Forecasting](https://dpdms1212.wixsite.com/waf1)
-> [Analysis about typhoon BAVI](https://gwonjh8543.wixsite.com/scientists)
-> Typhoon Simulation Using WRF Model
+> [Analysis about typhoon BAVI](https://gwonjh8543.wixsite.com/scientists)<br>
+  Typhoon Simulation Using WRF Model
 - [Paradox of Globalwarming](https://cindusuhyun.wixsite.com/mysite)
  
 
