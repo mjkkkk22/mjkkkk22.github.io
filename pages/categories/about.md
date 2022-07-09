@@ -3,6 +3,9 @@ permalink: /about/
 title: About
 layout: single
 author_profile: true
+
+sidebar:
+  nav: "main"
 sidebar_main: true
 
 toc: true
