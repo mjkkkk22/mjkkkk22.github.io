@@ -6,7 +6,7 @@ author_profile: true
 sidebar_main: true
 ---
 
-![image](이미지주소)
+"images/penguin.jpg"
 
 ## Minjeong Kong
 - Major
