@@ -41,7 +41,8 @@ Current in [CSL Lab](https://sites.google.com/site/climatesystemlab) Intern
 -	Analysis of the title of the article and the feelings of people about the Football Club
 -	Implementation of Wordcloud for Climate Crisis Keywords Using Web Scraping
  
-- [Weather Analysis & Forecasting](https://dpdms1212.wixsite.com/waf1)
+> [Weather Analysis & Forecasting](https://dpdms1212.wixsite.com/waf1)<br>
+ (Analysis & Forecasting about 2021.03.26. ~ 2021.04.01.)
 > [Analysis about typhoon BAVI](https://gwonjh8543.wixsite.com/scientists)<br>
   Typhoon Simulation Using WRF Model
 - [Paradox of Globalwarming](https://cindusuhyun.wixsite.com/mysite)
