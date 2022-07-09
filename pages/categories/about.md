@@ -49,6 +49,6 @@ Current in [CSL Lab](https://sites.google.com/site/climatesystemlab) Intern
 - Smart Monitoring System for the Prevention of Fire and Source of Fine Dust
 -	Analysis of the title of the article and the feelings of people about the Football Club
 -	Implementation of Wordcloud for Climate Crisis Keywords Using Web Scraping
-- [Paradox of Globalwarming](https://cindusuhyun.wixsite.com/mysite)
+- [Paradox of Global warming](https://cindusuhyun.wixsite.com/mysite)
  
 
